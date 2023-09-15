@@ -1,0 +1,14 @@
+{
+  "name": "e2e_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "switzerchees <patrickmichel96@yahoo.de>",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
